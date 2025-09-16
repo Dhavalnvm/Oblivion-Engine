@@ -1,0 +1,15 @@
+# Railway Optimization Settings
+
+solver:
+  time_limit_ms: 5000
+  enable_logging: true
+
+simulation:
+  num_trains: 15
+  station_code: "NDLS"
+  platforms: ["P1", "P2", "P3", "P4", "P5"]
+  time_window_hours: 8
+
+ui:
+  refresh_interval_ms: 1000
+  theme: "default"

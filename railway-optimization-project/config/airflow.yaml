@@ -1,0 +1,5 @@
+# Airflow Configuration (for future use)
+airflow:
+  dag_schedule: "*/5 * * * *"
+  retries: 3
+  retry_delay: 60

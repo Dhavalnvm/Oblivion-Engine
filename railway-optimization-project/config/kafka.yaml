@@ -1,0 +1,7 @@
+# Kafka Configuration (for future use)
+kafka:
+  brokers: ["localhost:9092"]
+  topics:
+    train_positions: "train.positions"
+    delays: "train.delays"
+    platform_status: "platform.status"

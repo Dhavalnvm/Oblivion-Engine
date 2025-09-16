@@ -1,0 +1,6 @@
+# CP-SAT Solver Configuration
+cp_sat:
+  solver_timeout: 5000
+  num_search_workers: 4
+  log_search_progress: false
+  enumerate_all_solutions: false

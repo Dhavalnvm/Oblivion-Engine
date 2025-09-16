@@ -1,0 +1,7 @@
+# Database Configuration (for future use)
+database:
+  host: "localhost"
+  port: 5432
+  name: "railway_db"
+  user: "rail_user"
+  password: "password"
