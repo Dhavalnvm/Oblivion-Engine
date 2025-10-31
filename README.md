@@ -1,4 +1,4 @@
-# Railway Optimization Prototype 🚂💥
+# Railway Optimization Prototype 
 *Because apparently trains need computer science degrees now*
 
 ## What Fresh Hell Is This?
